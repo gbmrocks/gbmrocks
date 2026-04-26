@@ -129,10 +129,9 @@ Actively exploring:
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/gbmrocks](https://linkedin.com/in/gbmrocks)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/gaurang25/](https://linkedin.com/in/gaurang25)
 - 🐦 **Twitter/X:** [@gbmrocks](https://twitter.com/gbmrocks)
-- 📧 **Email:** contact@gbmrocks.dev
-- 🌐 **Portfolio:** [gbmrocks.dev](https://gbmrocks.dev)
+- 📧 **Email:** gaurangmody25@gmail.com
 
 ---
 
