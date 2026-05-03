@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Staff/Principal IC Engineer
+# 👋 Hi, I'm a Staff IC Engineer
 
 **Lead Software Engineer** | Cloud-Native Distributed Systems Architect | 10+ Years Building Enterprise-Scale Platforms
 
